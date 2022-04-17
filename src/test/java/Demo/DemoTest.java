@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class DemoTest {
 
 	@Test
-	public void demo()
+	public void demo22()
 	{
 		System.out.println("User1---Commit");
 	}

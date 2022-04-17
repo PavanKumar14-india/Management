@@ -10,6 +10,12 @@ public class DemoTest {
 	{
 		System.out.println("User1---Commit");
 	}
+	@Test
+	public void demo()
+	{
+		System.out.println("User1---Commit_ Check Commit!!!");
+	}
+	
 	
 	@Test
 	public void demo2()

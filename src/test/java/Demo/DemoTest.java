@@ -31,7 +31,7 @@ public class DemoTest {
 		
 	}
 	@Test
-	public void demo3()
+	public void demo33()
 	{
 
 		System.out.println("User3---Commit");

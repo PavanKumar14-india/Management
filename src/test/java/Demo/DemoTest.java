@@ -24,4 +24,11 @@ public class DemoTest {
 		System.out.println("User3---Commit");
 		
 	}
+	@Test
+	public void demo3()
+	{
+
+		System.out.println("User3---Commit");
+		
+	}
 }
